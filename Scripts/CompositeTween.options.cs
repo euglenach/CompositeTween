@@ -1,4 +1,4 @@
-﻿namespace DotweenExtensions
+﻿namespace DOTweenExtensions
 {
     public partial class CompositeTween
     {

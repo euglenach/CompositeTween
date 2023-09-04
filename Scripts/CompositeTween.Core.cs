@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 
-namespace DotweenExtensions
+namespace DOTweenExtensions
 {
     public partial class CompositeTween : IDisposable, ICollection<Tween>
     {
