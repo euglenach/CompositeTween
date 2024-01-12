@@ -1,0 +1,11 @@
+{
+  "name": "com.euglenach.compositetween",
+  "version": "0.1.0",
+  "displayName": "CompositeTween",
+  "description": "CompositeTween",
+  "author": {
+    "name": "euglenach"
+  },
+  "license": "MIT",
+  "category": "Scripting"
+}
